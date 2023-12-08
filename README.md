@@ -43,4 +43,4 @@ mysqli_connect_error()) ? $___mysqli_res : false)) . '</pre>' );
 Требования к системе авторизации 
 Система авторизации должна использовать запросы GET с 
 параметрами, аналогичными из задания bruteforce dvwa 
-dvwa.local/vulnerabilities/brute/?username=USER&password=PASS&user_token=TOKEN&Login=Login
+```dvwa.local/vulnerabilities/brute/?username=USER&password=PASS&user_token=TOKEN&Login=Login```
